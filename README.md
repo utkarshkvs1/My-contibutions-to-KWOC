@@ -13,11 +13,11 @@ gnewsclient supports Python 2 as well as Python 3.
 ### My contributions 
   **Pull Requests I've worked on**
   
-- [#1](https://github.com/nikhilkumarsingh/gnewsclient/pull/16)<br/>
+- [#1](https://github.com/nikhilkumarsingh/gnewsclient/pull/16)   `status:Merged` <br/>
   Implemented basic Tkinter GUI for gnewsclient.
   
   
-- [#2](https://github.com/nikhilkumarsingh/gnewsclient/pull/18)<br/>
+- [#2](https://github.com/nikhilkumarsingh/gnewsclient/pull/18)   `status:Merged` <br/>
   Implemented resizable canvas and image rendering in Tkinter GUI.<br/>
   Added a logo for the application.
 
@@ -30,7 +30,7 @@ Python library to interact with github's public API.
 ### My contributions
   **Pull Requests I've worked on**
   
-  - [#1](https://github.com/Demfier/GitPub/pull/28)<br/>
+  - [#1](https://github.com/Demfier/GitPub/pull/28)   `status:Merged` <br/>
    This was my very first pull request on a open source project.<br/>
    I added missing requirement file for the repository.
    
