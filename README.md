@@ -20,8 +20,30 @@ gnewsclient supports Python 2 as well as Python 3.
 - [#2](https://github.com/nikhilkumarsingh/gnewsclient/pull/18)<br/>
   Implemented resizable canvas and image rendering in Tkinter GUI.<br/>
   Added a logo for the application.
-    
+
+
+## [Gitpub](https://github.com/Demfier/GitPub)
+mentor: [Gaurav Sahu](https://github.com/Demfier)
+
+Python library to interact with github's public API.
+
+### My contributions
+  **Pull Requests I've worked on**
+  
+  - [#1](https://github.com/Demfier/GitPub/pull/28)<br/>
+   This was my very first pull request on a open source project.<br/>
+   I added missing requirement file for the repository.
    
-    
+   
+# Summary
+Participating in KWOC was overall a great experience for me.
+KWOC helped me a lot in understanding the actual workflow of projects on github. I thank KOSS for bringing us such a good opprtunity to learn and helping us getting involved in open source. Special thanks to my mentors for their sincere guidance<br/> 
+[Gaurav Sahu](https://github.com/Demfier) Sir: Who helped me understand workflow of git.<br/>
+[Nikhil Kumar Singh](https://github.com/nikhilkumarsingh/) Sir: Who helped me make GUI using Tkinter.<br/>
+I also thank my friend [Shrey Tanna](https://github.com/Shrey97/) for collaborating with me in making of GUI for gnewsclient.
+
+
+
+
    
   
