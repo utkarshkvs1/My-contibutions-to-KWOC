@@ -18,11 +18,12 @@ gnewsclient supports Python 2 as well as Python 3.
 
 ### My contributions 
   **Pull Requests I've worked on**
-- [#1](https://github.com/nikhilkumarsingh/gnewsclient/pull/16)
+- [#1](https://github.com/nikhilkumarsingh/gnewsclient/pull/16)<br/>  
   Implemented basic Tkinter GUI for gnewsclient.
-- [#2](https://github.com/nikhilkumarsingh/gnewsclient/pull/18)
-Implemented resizable canvas and image rendering in Tkinter GUI.
-Added a logo for the application.
+  
+- [#2](https://github.com/nikhilkumarsingh/gnewsclient/pull/18)<br/>
+  Implemented resizable canvas and image rendering in Tkinter GUI.<br/>
+  Added a logo for the application.
     
    
     
