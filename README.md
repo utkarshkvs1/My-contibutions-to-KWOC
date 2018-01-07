@@ -1,5 +1,5 @@
 # About Me
-Hello I'm Utkarsh Tripathi.
+Hello, I'm Utkarsh Tripathi.
 I'm currently in my Sophomore year at IIT (BHU), Varanasi, pursuing my Undegraduate studies in Computer Science.
 
 
@@ -37,7 +37,7 @@ Python library to interact with github's public API.
    
 # Summary
 Participating in KWOC was overall a great experience for me.
-KWOC helped me a lot in understanding the actual workflow of projects on github. I thank KOSS for bringing us such a good opprtunity to learn and helping us getting involved in open source. Special thanks to my mentors for their sincere guidance<br/> 
+KWOC helped me a lot in understanding the actual workflow of projects on github. I thank KOSS for bringing such a good opprtunity to learn and helping us getting involved in open source. Special thanks to my mentors for their sincere guidance.<br/> 
 [Gaurav Sahu](https://github.com/Demfier) Sir: Who helped me understand workflow of git.<br/>
 [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh/) Sir: Who helped me make GUI using Tkinter.<br/>
 I also thank my friend [Shrey Tanna](https://github.com/Shrey97/) for collaborating with me in making of GUI for gnewsclient.
