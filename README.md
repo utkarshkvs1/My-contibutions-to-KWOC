@@ -4,7 +4,7 @@ I'm currently in my Sophomore year at IIT (BHU), Varanasi, pursuing my Undegradu
 
 
 # Projects I've worked on
-## gnewsclient
+## [gnewsclient](https://github.com/nikhilkumarsingh/gnewsclient/)
 mentor: [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)
 
 An easy-to-use python client for [Google News feeds](https://news.google.com/).
