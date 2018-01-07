@@ -1,6 +1,6 @@
 # About Me
 Hello, I'm Utkarsh Tripathi.
-I'm currently in my Sophomore year at IIT (BHU), Varanasi, pursuing my Undegraduate studies in Computer Science.
+I'm currently a Sophomore at IIT (BHU), Varanasi, pursuing my Undegraduate studies in Computer Science.
 
 
 # Projects I've worked on
