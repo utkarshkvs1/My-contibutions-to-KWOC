@@ -9,21 +9,20 @@ students to get involved in open source, but also preps them for many
 open source summer programmes, Google Summer of Code being one of them.
 
 
-# Project I worked on
-  ## gnewsclient
-    mentor: [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)
+# Projects I've worked on
+## gnewsclient
+mentor: [Nikhil Kumar Singh](https://github.com/nikhilkumarsingh)
 
-    An easy-to-use python client for [Google News feeds](https://news.google.com/).
-    gnewsclient supports Python 2 as well as Python 3.
+An easy-to-use python client for [Google News feeds](https://news.google.com/).
+gnewsclient supports Python 2 as well as Python 3.
 
-    ### My contributions 
-      **Pull Requests I've worked on. **
-      - [#1](https://github.com/nikhilkumarsingh/gnewsclient/pull/16)</br>
-        Implemented basic Tkinter GUI for gnewsclient.
-        
-      - [#2](https://github.com/nikhilkumarsingh/gnewsclient/pull/18)
-        Implemented resizable canvas and image rendering in Tkinter GUI.
-        Added a logo for the application.
+### My contributions 
+  **Pull Requests I've worked on**
+- [#1](https://github.com/nikhilkumarsingh/gnewsclient/pull/16)</br>
+  Implemented basic Tkinter GUI for gnewsclient.
+- [#2](https://github.com/nikhilkumarsingh/gnewsclient/pull/18)</br>
+Implemented resizable canvas and image rendering in Tkinter GUI.</br>
+Added a logo for the application.
     
    
     
